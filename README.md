@@ -90,18 +90,6 @@ The model has high precision and F1 on the majority class, but recall is strong 
 
 ---
 
-
-##  How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/Debaswini-M/Task_1-Data-Preprocessing.git
-   cd Task_1-Data-Preprocessing
-
-
----
-
 ## Author
 
 **Debaswini**
